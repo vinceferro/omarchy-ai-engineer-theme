@@ -11,7 +11,7 @@ deep-space backgrounds, electric cyan accent, purple/pink neon terminals.
   pink/purple brights tuned for terminals and the status bar
 - **Backgrounds** — `2-nebula`, `3-neural` (a glowing AI network), `4-eclipse`
   (a neon-rimmed dark planet), plus `1-universe-live.webp`, the trigger for the
-  [animated shader wallpaper](https://github.com/thev/omarchy-universe-background)
+  [animated shader wallpaper](https://github.com/vinceferro/omarchy-universe-background)
   if you have that plugin installed (otherwise it's a pretty static frame)
 - **Lock screen** — dark starfield with neon borders
 - **Icons** — Yaru-purple-dark
@@ -19,7 +19,7 @@ deep-space backgrounds, electric cyan accent, purple/pink neon terminals.
 ## Install
 
 ```bash
-omarchy theme install https://github.com/thev/omarchy-ai-engineer-theme.git
+omarchy theme install https://github.com/vinceferro/omarchy-ai-engineer-theme.git
 omarchy theme set ai-engineer
 ```
 
@@ -31,7 +31,7 @@ omarchy theme set ai-engineer
 For the full animated-universe experience, also install the shader plugin:
 
 ```bash
-omarchy plugin add https://github.com/thev/omarchy-universe-background.git --enable
+omarchy plugin add https://github.com/vinceferro/omarchy-universe-background.git --enable
 omarchy restart shell
 ```
 
