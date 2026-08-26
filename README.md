@@ -24,7 +24,7 @@ deep-space backgrounds, electric cyan accent, purple/pink neon terminals.
 One-liner (plugin + theme + gradient borders + live background pin):
 
 ```bash
-curl -sL https://gist.githubusercontent.com/vinceferro/<gist-id>/raw/install.sh | bash
+curl -sL https://gist.githubusercontent.com/vinceferro/14ca89b1f493986cff81a81721ac8670/raw/install.sh | bash
 ```
 
 Or step by step with the native commands:
