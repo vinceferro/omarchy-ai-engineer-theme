@@ -1,5 +1,8 @@
 # AI Engineer — an Omarchy theme
 
+![animated universe background](preview.gif)
+
+
 A glowing neon "AI engineer universe" theme for [Omarchy](https://omarchy.org):
 deep-space backgrounds, electric cyan accent, purple/pink neon terminals.
 
